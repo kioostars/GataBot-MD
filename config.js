@@ -18,15 +18,14 @@ global.owner = [
 ["5492266613038"],
 ["51948705559"],
 ["51982233590"],
-["51906662557"],
 ["5217294888993"]]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botNumberCode = "" //Ejemplo: +59309090909
-global.confirmCode = ""
+global.botNumberCode = "+56961198875" //Ejemplo: +59309090909
+global.confirmCode = "+56961198875"
 
 global.mods = []
 global.prems = ["528451003894"]
